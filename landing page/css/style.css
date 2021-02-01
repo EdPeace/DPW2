@@ -1,13 +1,13 @@
 .navi{
   top: 0;
   width: 100%;
-  background-image: linear-gradient(#9a6feb,#0004f8);
+  background-color: #0004f8;
 }
 main{
   background-image: linear-gradient(#6315f3,#e97bbb);
 }
 .aud ion-icon {
-  color: #de04f1;
+  color: #e1f012;
   
   font-size: 2em;
 }
